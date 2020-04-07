@@ -1,4 +1,4 @@
-.ipynb_checkpoint
-.DS_Store
+.ipynb_checkpoint*
+.DS_Store*
 .idea*
 Gaussian_mock_data/*
